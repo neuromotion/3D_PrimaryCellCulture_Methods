@@ -1,7 +1,7 @@
 # 3D_PrimaryCellCulture_Methods
 Custom designs of 3D printed and machined parts for use in 3D in vitro primary cell culture
 
-These files should be used to create the stainless steel injection mold piece (.SLDPRT and .SLDDRW) and the injection mold PLA-lift piece (.f3d). 
+These files should be used to create the stainless steel injection mold piece (.SLDPRT and .SLDDRW) and the injection mold holder PLA-lift piece (.f3d). 
 
 ## Software
 1. AutoDesk Fusion360 - commercial computer-aided design software for prefabrication design of PLA-lift piece
